@@ -1139,11 +1139,11 @@ ul.wmuSliderPagination {
 	  width: 70%;
 	}
 }
-@media (max-width: 320px){
+@media (max-width: 600px){
 	.header-top-left {
 	  margin: 0.5em 0 0 0.2em;
 	}
-	.header-top-left p a {
+	.header-top-left p {
 		font-size: 12px;
 	}
 	.header-top-right p {
