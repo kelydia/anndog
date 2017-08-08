@@ -15,7 +15,7 @@ icon: glyphicon-heart
 
 * email：[494665118@qq.com](mailto:{{ site.email }})
 * QQ：494665118
-* Weibo：[Haoyang](http://weibo.com/goreen)
+* Weibo：[Goreen](http://weibo.com/goreen)
 
 ---
 
