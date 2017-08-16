@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "新的jekyll提交方式"
-date:   2017-08-16 11:56:00
+date:   2017-08-16
 categories: 技术
 ---
 
