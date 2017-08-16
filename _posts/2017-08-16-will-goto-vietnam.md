@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  即将去往越南
+title:  "即将去往越南"
 date:   2017-08-16
 categories: 心情
 ---
