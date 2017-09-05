@@ -6,7 +6,6 @@ categories: 计划
 author: kelydia
 ---
 
-|计划|内容|方式|
+|英文学习|appium|python|
 | --- | --- | --- |
-|英文|学习英文|手机app：多邻国|
-|appium|app自动化回归测试|练习示例|
+|17-09-05| - | - |
