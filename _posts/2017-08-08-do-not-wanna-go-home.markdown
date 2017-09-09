@@ -3,6 +3,7 @@ layout: post
 title:  "不想回家"
 date:   2017-08-09 09:04:07
 categories: 心情
+author: kelydia
 ---
 ![孤独](/pics/2.jpg)
 
