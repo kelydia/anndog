@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一群男人的生活"
+title:  "引用"
 date:   2017-09-09
 categories: 感情生活
 author: kelydia
@@ -15,5 +15,3 @@ author: kelydia
   痕迹;爱，就大声说出来，因为
   你永远都不会知道，明天和意外
   ，哪个会先来!
- 
-> 
