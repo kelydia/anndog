@@ -7,20 +7,7 @@
   <body>
 
     {% include header.html %}
-    <div>
-      <script>
-          (function() {
-              var cx = '001345911893838176505:aqgicqgrkcc';
-              var gcse = document.createElement('script');
-              gcse.type = 'text/javascript';
-              gcse.async = true;
-              gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-              var s = document.getElementsByTagName('script')[0];
-              s.parentNode.insertBefore(gcse, s);
-          })();
-      </script>
-      <gcse:search></gcse:search>
-    </div>
+
 
     <div id="main" class="container main">
       {{ content }}
@@ -49,7 +36,5 @@
       addBlankTargetForLinks();
     });
   </script>
-
-
   </body>
 </html>
