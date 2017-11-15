@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "即将去往Việt Nam"
+title:  "即将去往 - Việt Nam"
 date:   2017-08-16
 categories: 心情
 author: kelydia
