@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新的旅程"
+title:  "新的旅程 - Manila"
 date:   2017-11-15
 categories: 心情
 author: kelydia
